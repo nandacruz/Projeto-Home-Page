@@ -1,5 +1,5 @@
 # Projeto-Home-Page
-Projeto pessoal que criei de uma pagina inicial de empresa fictícia para fixar alguns simples conceitos de HTML e CSS que aprendi durante meus estudos.:smiley:
+Projeto pessoal que criei de uma pagina inicial de empresa fictícia para fixar alguns simples conceitos de HTML e CSS que aprendi durante meus estudos. :smiley:
 
 
 <img src = "project_img/Screenshot_1.png">
