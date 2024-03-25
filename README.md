@@ -2,7 +2,8 @@
 Projeto pessoal que criei de uma pagina inicial de empresa fictícia para fixar alguns simples conceitos de HTML e CSS que aprendi durante meus estudos.:smiley:
 
 
-<img src = "https://github.com/nandacruz/Projeto-Home-Page/blob/main/Home%20Page/project_img/Screenshot_1.png">
+<img src = "project_img/Screenshot_1.png">
+
 
 <h2>Conceitos</h2>
 
